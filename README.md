@@ -1,2 +1,2 @@
 # 3rd-party-PTT-buttonholder
-its a glorified third party push to talk key holder, for games that don't have voice detect... it send directx inputs to the game (key_press_down) and (key_press_up) 
+its a glorified third party push to talk key holder, for games that don't have voice detect... this is an External Software, an AutoPTT that can bridge the gap by mapping a mouse or keyboard button  (e.g., k) that hands the "hold" logic in the background, which is then recognized by Discord or games, allowing the user to keep there voice toggle on indefinitely, this can be toggled on/off
